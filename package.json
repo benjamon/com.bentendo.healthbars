@@ -1,0 +1,27 @@
+{
+  "name": "com.bentendo.healthbar",
+  "version": "0.0.1",
+  "displayName": "Simple Health Bar Test",
+  "description": "A simple health bar package for stuff",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "health",
+    "ui",
+    "textmeshpro"
+  ],
+  "author": {
+    "name": "bentendo",
+    "email": "benppixels@gmail.com",
+    "url": "https://www.benpeterson.dev"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Healthbar",
+      "description": "The base case for healthbar",
+      "path": "Samples~/BasicHealthbar"
+    }
+  ]
+}
